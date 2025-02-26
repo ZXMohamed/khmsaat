@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left"></p>
+<a href="https://zxmohamed.github.io/khmsaat/">https://zxmohamed.github.io/khmsaat/</a>
 
 ###
 
@@ -35,7 +35,7 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="vercel logo"  />
+   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
 ###
